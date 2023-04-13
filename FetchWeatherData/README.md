@@ -6,5 +6,10 @@ save it in the cloud storage.
 A function will be executed in the cloud function which is executed
 by the cloud scheduler.
 
+##### Services used 
+* Cloud Function
+* Cloud Storage
+* Cloud Scheduler
+
 
 
