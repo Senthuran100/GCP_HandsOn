@@ -18,4 +18,4 @@ Created three instances to check the connections between the instances.
 * Then created a separate firewall rule to enable the connection and able to connect between those instances.
 
 
-![VPC Diagram](Simple_VPC/VPC.drawio.png)
+![VPC Diagram](https://github.com/Senthuran100/GCP_HandsOn/blob/main/Simple_VPC/VPC.drawio.png)
