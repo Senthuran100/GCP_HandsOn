@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-04-15T03:41:26.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="33kTbp7vCbeTKKRUjyVf" version="21.1.8" type="device">
+  <diagram name="Page-1" id="NXdw5RRQhNWOLl_BrQZg">
+    <mxGraphModel dx="1242" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="160" width="751" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-6" value="VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-7" value="Subnetwork 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-8" value="Subnetwork 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-10" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-11" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-12" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-13" value="Instance 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-14" value="Instance 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r8WWfnYXxmM88BMhLOj-15" value="Instance 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

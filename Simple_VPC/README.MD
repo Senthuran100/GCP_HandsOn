@@ -16,3 +16,6 @@ Created three instances to check the connections between the instances.
 
 * At first instance1 was not able to make a connection to instance2 and instance3
 * Then created a separate firewall rule to enable the connection and able to connect between those instances.
+
+
+![VPC Diagram](Simple_VPC/VPC.drawio.png)
